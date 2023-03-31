@@ -523,6 +523,10 @@ body ,html{
         width:370px;
     }
 }
+@media only screen and (max-width:480px){
+    .row4{
+        height:130vh;
+      }
 @media only screen and (max-width:412px){
     .row4{
         display:block;
@@ -539,10 +543,6 @@ body ,html{
         height:90vh;
     }
 }
-@media only screen and (max-width:480px){
-    .row4{
-        height:120vh;
-      }
 }
 @media only screen and (max-width:470px){
     .row4{
