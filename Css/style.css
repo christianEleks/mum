@@ -541,7 +541,7 @@ body ,html{
 }
 @media only screen and (max-width:480px){
     .row4{
-        height:95vh;
+        height:120vh;
       }
 }
 @media only screen and (max-width:470px){
